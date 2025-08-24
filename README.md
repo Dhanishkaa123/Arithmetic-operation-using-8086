@@ -57,15 +57,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|           1200h         |        1204h             |
+|           1201h         |        1205h             |
+|           1202h         |        1206h             |  
+|           1203h         |        1207h             |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/8e5357f1-33f0-4008-9659-a0040020e337" />
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="640" height="480" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/dbf0c214-8104-435c-ab69-bcf51fba20e6" />
 
 ## 2. SUBTRACTION
 
@@ -84,6 +88,8 @@ END
 
 #### Program
 
+<img width="640" height="480" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/3160be85-2876-44a8-9b9b-6da864dcf80d" />
+
 
 
 #### Output Table
@@ -94,12 +100,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+(Add your calculat
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="640" height="480" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/abdab84b-a772-4e93-b44a-e4f719ab5132" />
+
 
 ## 3. MULTIPLICATION
 
@@ -139,15 +146,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|    1200                 |        1204              | 
+|    1201                 |        1205              | 
+|    1202                 |        1206              |
+|    1203                 |        1207              |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9c8b1fa8-6273-4185-a281-e603133f6bd9" />
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="640" height="480" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/67bb03c2-235b-4d98-960b-503f6e1e8b7d" />
+
 
 ## 4. DIVISION
 
