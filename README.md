@@ -96,8 +96,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|           1200h         |        1204h             |
+|           1201h         |        1205h             |
+|           1202h         |        1206h             |
+|           1203h         |        1207h             |
 #### Manual Calculations
 
 (Add your calculat
@@ -196,7 +198,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|            1200h        |       1204h              |
+|            1201h        |       1205h              |
+|            1202h        |       1206h              | 
+|            1203h        |       1207h              |
 
 #### Manual Calculations
 
@@ -205,6 +210,7 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="640" height="480" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/fb3977ba-0f45-43f7-b7ae-fd5ac2730799" />
 
 
 ## RESULT
